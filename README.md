@@ -24,7 +24,7 @@
 - Also, people with dti between 15-20 are more likely to default.
 - People with loan interest rate higher than 10% also have a tendency to default.
 - One more interesting observation was people from West; out of four USA regions - West, South, Northeast, Midwest; have little higher tendency to default when compared to people from remaining three regions.
-- REFER TO THE EXCEL FILE FOR DETAILED RECOMMENDATIONS MATRIX (File Name: Recommendation_Matrix.xlsx)
+- REFER TO THE EXCEL FILE FOR DETAILED RECOMMENDATIONS MATRIX (File Name: Recommendation_Matrix.xlsx). Yellow cells in this excel file indicate that there is no recommendation for that particular combination. Or in other words this pair of variables is not related to give any recommendation.
 
 ## Technologies Used  - Python
 - libraries - ipython, pandas, numpy, seaborn, matplotlib, itertools
